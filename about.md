@@ -8,8 +8,8 @@ Yao graduated from the University of California at Berkeley with a Master's degr
 
 ### Contact me
 
-[yyaowu@gmail.com](mailto:yyaowu@gmail.com)
-[LinkedIn](https://www.linkedin.com/in/yyaowu)
-[Github](https://github.com/PandaGongfu)
+[yyaowu@gmail.com](mailto:yyaowu@gmail.com)  
+[LinkedIn](https://www.linkedin.com/in/yyaowu)  
+[Github](https://github.com/PandaGongfu)  
 
 
